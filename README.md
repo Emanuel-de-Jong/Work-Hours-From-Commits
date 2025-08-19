@@ -1,4 +1,4 @@
-# Commit Archaeologist
+# Work Hours From Commits
 Description
 
 ### Table of Contents
