@@ -1,4 +1,7 @@
 # Work Hours From Commits
+Estimate the hours that you worked on a project using the commits in your git repo(s). It looks at the times between commits and groups time blocks together. The end result is a neat CSV with task descriptions from the commit messages and next to them the total time they took.
+
+Of course these are just guesses and can't replace manual hour tracking. But it's better than nothing if you forgot to track them.
 
 **Active Development:** <br>
 **Last Change:** <br>
