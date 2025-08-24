@@ -1,20 +1,11 @@
 # Work Hours From Commits
-Description
 
-### Table of Contents
-- [About](#about)
+**Active Development:** <br>
+**Last Change:** <br>
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/1.png) | ![](/Screenshots/2.png) |
-
-## About
-| | |
-| --- | --- |
-| | - **Project Overview** - |
-| **Active Development:** |  |
-| **Maintenance:** |  |
-
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
 
 ## Usage
 1. Put correct repo paths and links in `script_1.py`. Optionally tweak other params.
