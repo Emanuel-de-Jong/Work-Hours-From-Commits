@@ -8,7 +8,7 @@ Of course these are just guesses and can't replace manual hour tracking. But it'
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-Output-YML.png) | ![](/Screenshots/2-Output-CSV.png) |
 
 ## Usage
 1. Put correct repo paths and links in `script_1.py`. Optionally tweak other params.
