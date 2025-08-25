@@ -3,8 +3,8 @@ Estimate the hours that you worked on a project using the commits in your git re
 
 Of course these are just guesses and can't replace manual hour tracking. But it's better than nothing if you forgot to track them.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2025-06-06 - 2025-06-06<br>
+**Last Change:** 2025-06-06<br>
 
 | | |
 | :---: | :---: |
