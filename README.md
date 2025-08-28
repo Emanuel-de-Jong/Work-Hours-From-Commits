@@ -16,3 +16,4 @@ Of course these are just guesses and can't replace manual hour tracking. But it'
 3. In `groups.yml`, remove unwanted groups, change start times if total time is unrealistic, change titles.
 4. Run `script_2.py`.
 5. The new `hours.csv` are your hours by task.
+ 
